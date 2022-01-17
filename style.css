@@ -1,0 +1,41 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: whitesmoke;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+ul,li a{
+    text-decoration: none;
+    padding-left: 20px;
+}
+.camara{
+    padding-top: 30px;
+    padding-right: 60px;
+}
+.camara a{
+text-decoration: none;
+background-color: #E02C6D;
+color: white;
+font-size: 16px;
+font-weight: 700px;
+padding: 10px 24px;
+border-radius: 40px;
+}
+.Influencer{
+    display: flex;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+.Influencer img{
+    width: 340px;
+height: 314px;
+}
+
